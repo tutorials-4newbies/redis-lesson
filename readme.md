@@ -2,6 +2,11 @@
 
 -----
 
+## Requirements
+1. [Docker](https://docs.docker.com/engine/install/) engine installed
+2. [Poetry](https://python-poetry.org/docs/#installation)
+
+
 ## Setup
 
 1. Clone this repo.
